@@ -7,6 +7,7 @@ nodemon server.js
 
 ### For Frontend: (npm should be installed globally in your system)
 cd .\my-app\
+npm install
 npm start
 ##### react-app at localhost:3000
 
